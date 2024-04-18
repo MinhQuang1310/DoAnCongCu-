@@ -1,0 +1,1342 @@
+.order,
+.order * {
+    box-sizing: border-box;
+}
+
+.order {
+    background: #ffffff;
+    height: 2170px;
+    position: relative;
+    overflow: hidden;
+}
+
+.footer-footer-82 {
+    background: #ffffff;
+    width: 1440px;
+    height: 586px;
+    position: absolute;
+    left: calc(50% - 720px);
+    bottom: 0px;
+    overflow: hidden;
+}
+
+.group-1000002090 {
+    position: absolute;
+    inset: 0;
+}
+
+.grast {
+    width: 235px;
+    height: 100px;
+    position: static;
+}
+
+.logo {
+    text-align: left;
+    font-family: 'AbhayaLibreExtraBold-Regular', sans-serif;
+    font-size: 62.7400016784668px;
+    line-height: 100px;
+    font-weight: 400;
+    position: absolute;
+    left: 118px;
+    top: 104px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+}
+
+.logo-span {
+    color: #000000;
+    font-family: 'AbhayaLibreExtraBold-Regular', sans-serif;
+    font-size: 62.7400016784668px;
+    line-height: 100px;
+    font-weight: 400;
+}
+
+.logo-span2 {
+    color: #ff2900;
+    font-family: 'AbhayaLibreExtraBold-Regular', sans-serif;
+    font-size: 62.7400016784668px;
+    line-height: 100px;
+    font-weight: 400;
+}
+
+.home-delivery-is-a-courier-service-in-which-a-clothing-store {
+    color: #767676;
+    text-align: left;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+    position: absolute;
+    left: 118px;
+    top: 209px;
+    width: 260px;
+}
+
+.email {
+    width: 198px;
+    height: 28px;
+    position: static;
+}
+
+.email-1 {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 123px;
+    top: 327px;
+    overflow: hidden;
+}
+
+.group {
+    height: auto;
+    position: absolute;
+    left: 0px;
+    top: 2.38px;
+    overflow: visible;
+}
+
+.cuongdev-02-gmail-com {
+    color: #000000;
+    text-align: left;
+    font-family: 'AbhayaLibreExtraBold-Regular', sans-serif;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+    position: absolute;
+    left: 157px;
+    top: 321px;
+}
+
+.card-02 {
+    width: 91px;
+    height: 211px;
+    position: static;
+}
+
+.cotact-us {
+    color: #666666;
+    text-align: left;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    position: absolute;
+    left: 537px;
+    top: 297px;
+}
+
+.how-it-works {
+    color: #666666;
+    text-align: left;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    position: absolute;
+    left: 537px;
+    top: 263px;
+}
+
+.privacy-policy {
+    color: #666666;
+    text-align: left;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    position: absolute;
+    left: 537px;
+    top: 229px;
+}
+
+.terms-of-use {
+    color: #666666;
+    text-align: left;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    position: absolute;
+    left: 537px;
+    top: 195px;
+}
+
+.about {
+    color: #666666;
+    text-align: left;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    position: absolute;
+    left: 537px;
+    top: 161px;
+}
+
+.company {
+    color: #030000;
+    text-align: left;
+    font-family: 'Inter-Medium', sans-serif;
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: 500;
+    position: absolute;
+    left: 537px;
+    top: 103px;
+}
+
+.card-3 {
+    width: 102px;
+    height: 211px;
+    position: static;
+}
+
+.cotact-us2 {
+    color: #666666;
+    text-align: left;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    position: absolute;
+    left: 773px;
+    top: 297px;
+}
+
+.how-it-works2 {
+    color: #666666;
+    text-align: left;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    position: absolute;
+    left: 773px;
+    top: 263px;
+}
+
+.privacy-policy2 {
+    color: #666666;
+    text-align: left;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    position: absolute;
+    left: 773px;
+    top: 229px;
+}
+
+.terms-of-use2 {
+    color: #666666;
+    text-align: left;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    position: absolute;
+    left: 773px;
+    top: 195px;
+}
+
+.about2 {
+    color: #666666;
+    text-align: left;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    position: absolute;
+    left: 773px;
+    top: 161px;
+}
+
+.who-we-are {
+    color: #030000;
+    text-align: left;
+    font-family: 'Inter-Medium', sans-serif;
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: 500;
+    position: absolute;
+    left: 773px;
+    top: 103px;
+}
+
+.card-04 {
+    width: 100px;
+    height: 109px;
+    position: static;
+}
+
+.follow-us {
+    color: #030000;
+    text-align: left;
+    font-family: 'Inter-Medium', sans-serif;
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: 500;
+    position: absolute;
+    left: 996px;
+    top: 103px;
+}
+
+.frame-339 {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 996px;
+    top: 155px;
+}
+
+.image-636 {
+    flex-shrink: 0;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    object-fit: cover;
+}
+
+.image-637 {
+    flex-shrink: 0;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    object-fit: cover;
+}
+
+.apple {
+    flex-shrink: 0;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    overflow: visible;
+}
+
+.frame-338 {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 996px;
+    top: 192px;
+}
+
+.frame {
+    flex-shrink: 0;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    overflow: hidden;
+}
+
+.group2 {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    right: 0%;
+    left: 0%;
+    bottom: 0%;
+    top: 0%;
+    overflow: visible;
+}
+
+.layer-1 {
+    flex-shrink: 0;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    overflow: visible;
+}
+
+.layer-12 {
+    flex-shrink: 0;
+    width: 20px;
+    height: 20px;
+    position: relative;
+    overflow: hidden;
+}
+
+.group3 {
+    width: 99.97%;
+    height: 75%;
+    position: absolute;
+    right: 0.03%;
+    left: 0%;
+    bottom: 12.5%;
+    top: 12.5%;
+    overflow: visible;
+}
+
+.card-5 {
+    width: 70px;
+    height: 143px;
+    position: static;
+}
+
+.business {
+    color: #666666;
+    text-align: left;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    position: absolute;
+    left: 1198px;
+    top: 229px;
+}
+
+.policy {
+    color: #666666;
+    text-align: left;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    position: absolute;
+    left: 1198px;
+    top: 195px;
+}
+
+.faq {
+    color: #666666;
+    text-align: left;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    position: absolute;
+    left: 1198px;
+    top: 161px;
+}
+
+.support {
+    color: #030000;
+    text-align: left;
+    font-family: 'Inter-Medium', sans-serif;
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: 500;
+    position: absolute;
+    left: 1198px;
+    top: 103px;
+}
+
+.terms-of-service {
+    color: #666666;
+    text-align: left;
+    font-family: 'GoogleSans-Bold', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    position: absolute;
+    left: 1054px;
+    top: 480px;
+}
+
+.privacy-policy3 {
+    color: #666666;
+    text-align: left;
+    font-family: 'GoogleSans-Bold', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    position: absolute;
+    left: 1212px;
+    top: 480px;
+}
+
+.gr-bg {
+    position: absolute;
+    inset: 0;
+}
+
+.ellipse-561 {
+    background: #7b9695;
+    border-radius: 50%;
+    width: 79px;
+    height: 74px;
+    position: absolute;
+    left: 102px;
+    top: 487px;
+}
+
+.ellipse-5612 {
+    background: #7b9695;
+    border-radius: 50%;
+    width: 79px;
+    height: 74px;
+    position: absolute;
+    left: 1309px;
+    top: 1093px;
+}
+
+.title-order {
+    position: absolute;
+    inset: 0;
+}
+
+.bold-headings {
+    color: #000000;
+    text-align: left;
+    font-family: 'Acme-Regular', sans-serif;
+    font-size: 136px;
+    line-height: 69px;
+    font-weight: 400;
+    position: absolute;
+    left: calc(50% - 149px);
+    top: 524px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+}
+
+.please-review-the-information-and-confirm-your-order {
+    color: rgba(0, 0, 0, 0.50);
+    text-align: left;
+    font-family: 'ABeeZee-Regular', sans-serif;
+    font-size: 28px;
+    line-height: 69px;
+    font-weight: 400;
+    position: absolute;
+    left: calc(50% - 354px);
+    top: 617px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+}
+
+.frame-297 {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 146px;
+    top: 735px;
+}
+
+.text-field {
+    flex-shrink: 0;
+    width: 527.5px;
+    height: 88.96px;
+    position: static;
+}
+
+.frame-243 {
+    width: 137px;
+    height: 36px;
+    position: static;
+}
+
+.label {
+    color: #666666;
+    text-align: left;
+    font-family: 'Poppins-Regular', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    right: 74.03%;
+    left: 0%;
+    width: 25.97%;
+    bottom: 95.54%;
+    top: 0%;
+    height: 4.46%;
+}
+
+.text-field-2 {
+    width: 99.91%;
+    height: 7.13%;
+    position: absolute;
+    right: 0%;
+    left: 0.09%;
+    bottom: 88.99%;
+    top: 3.88%;
+    overflow: visible;
+}
+
+.frame-2432 {
+    width: 133px;
+    height: 36px;
+    position: static;
+}
+
+.label2 {
+    color: #666666;
+    text-align: left;
+    font-family: 'Poppins-Regular', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    right: 74.79%;
+    left: 0%;
+    width: 25.21%;
+    bottom: 82.05%;
+    top: 13.49%;
+    height: 4.46%;
+}
+
+.text-field-22 {
+    width: 99.91%;
+    height: 7.13%;
+    position: absolute;
+    right: 0%;
+    left: 0.09%;
+    bottom: 75.5%;
+    top: 17.37%;
+    overflow: visible;
+}
+
+.text-field-3 {
+    width: 527.5px;
+    height: 88.96px;
+    position: static;
+}
+
+.frame-243-2 {
+    width: 163px;
+    height: 36px;
+    position: static;
+}
+
+.label-2 {
+    color: #666666;
+    text-align: left;
+    font-family: 'Poppins-Regular', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    right: 69.1%;
+    left: 0%;
+    width: 30.9%;
+    bottom: 68.56%;
+    top: 26.98%;
+    height: 4.46%;
+}
+
+.text-field-4 {
+    width: 99.91%;
+    height: 7.13%;
+    position: absolute;
+    right: 0%;
+    left: 0.09%;
+    bottom: 62.01%;
+    top: 30.86%;
+    overflow: visible;
+}
+
+.frame-243-22 {
+    width: 80px;
+    height: 36px;
+    position: static;
+}
+
+.label-22 {
+    color: #666666;
+    text-align: left;
+    font-family: 'Poppins-Regular', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    right: 84.83%;
+    left: 0%;
+    width: 15.17%;
+    bottom: 55.07%;
+    top: 40.47%;
+    height: 4.46%;
+}
+
+.text-field-42 {
+    width: 99.91%;
+    height: 7.13%;
+    position: absolute;
+    right: 0%;
+    left: 0.09%;
+    bottom: 48.52%;
+    top: 44.35%;
+    overflow: visible;
+}
+
+.frame-243-23 {
+    width: 136px;
+    height: 36px;
+    position: static;
+}
+
+.label-23 {
+    color: #666666;
+    text-align: left;
+    font-family: 'Poppins-Regular', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    right: 74.22%;
+    left: 0%;
+    width: 25.78%;
+    bottom: 41.58%;
+    top: 53.96%;
+    height: 4.46%;
+}
+
+.text-field-43 {
+    width: 99.91%;
+    height: 7.13%;
+    position: absolute;
+    right: 0%;
+    left: 0.09%;
+    bottom: 35.03%;
+    top: 57.84%;
+    overflow: visible;
+}
+
+.frame-243-24 {
+    width: 232px;
+    height: 36px;
+    position: static;
+}
+
+.label-24 {
+    color: #666666;
+    text-align: left;
+    font-family: 'Poppins-Regular', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    right: 56.02%;
+    left: 0%;
+    width: 43.98%;
+    bottom: 28.09%;
+    top: 67.45%;
+    height: 4.46%;
+}
+
+.text-field-44 {
+    width: 99.91%;
+    height: 7.13%;
+    position: absolute;
+    right: 0%;
+    left: 0.09%;
+    bottom: 21.54%;
+    top: 71.33%;
+    overflow: visible;
+}
+
+.frame-243-25 {
+    width: 61px;
+    height: 36px;
+    position: static;
+}
+
+.label-25 {
+    color: #666666;
+    text-align: left;
+    font-family: 'Poppins-Regular', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    right: 88.44%;
+    left: 0%;
+    width: 11.56%;
+    bottom: 14.6%;
+    top: 80.94%;
+    height: 4.46%;
+}
+
+.text-field-45 {
+    width: 527px;
+    height: 57.63px;
+    position: static;
+}
+
+.vector {
+    width: 99.91%;
+    height: 7.13%;
+    position: absolute;
+    right: 0%;
+    left: 0.09%;
+    bottom: 8.05%;
+    top: 84.82%;
+    overflow: visible;
+}
+
+.delivery-date-specific-address {
+    color: rgba(0, 0, 0, 0.50);
+    text-align: left;
+    font-family: 'Poppins-Regular', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    left: 13px;
+    top: 695.96px;
+}
+
+.frame-342 {
+    padding: 0px 49px 0px 49px;
+    display: flex;
+    flex-direction: row;
+    gap: 70px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.cancel {
+    flex-shrink: 0;
+    width: 179px;
+    height: 45px;
+    position: static;
+}
+
+.rectangle-5097 {
+    background: #d9d9d9;
+    width: 179px;
+    height: 45px;
+    position: absolute;
+    left: 49px;
+    top: 0px;
+}
+
+.cancel2 {
+    color: #000000;
+    text-align: left;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    left: calc(50% - 164px);
+    top: calc(50% - 14.5px);
+}
+
+.cancel3 {
+    background: #129717;
+    padding: 8px 57px 8px 57px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.order2 {
+    color: #ffffff;
+    text-align: left;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: relative;
+}
+
+.cancel4 {
+    position: absolute;
+    inset: 0;
+}
+
+.rectangle-50972 {
+    background: #499cff;
+    width: 345px;
+    height: 45px;
+    position: absolute;
+    left: 730px;
+    top: 1098px;
+}
+
+.continue-shopping {
+    color: #ffffff;
+    text-align: left;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    left: calc(50% - -64px);
+    top: calc(50% - -21px);
+}
+
+.cart {
+    color: #000000;
+    text-align: left;
+    font-family: 'Poppins-Regular', sans-serif;
+    font-size: 48px;
+    font-weight: 400;
+    position: absolute;
+    left: 735px;
+    top: 699px;
+}
+
+.cart-details {
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.50);
+    border-width: 1px;
+    width: 564px;
+    height: 296px;
+    position: absolute;
+    left: 730px;
+    top: 766px;
+    overflow: hidden;
+}
+
+.frame-341 {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: calc(50% - 264px);
+    top: 218px;
+}
+
+.qt {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.total {
+    color: #000000;
+    text-align: left;
+    font-family: 'Inter-Medium', sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    position: relative;
+}
+
+._3 {
+    color: #000000;
+    text-align: left;
+    font-family: 'Inter-Medium', sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    position: relative;
+}
+
+.qt2 {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.total-amount {
+    color: #ff0000;
+    text-align: left;
+    font-family: 'Inter-Medium', sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    position: relative;
+}
+
+._27-97 {
+    color: #ff0000;
+    text-align: left;
+    font-family: 'Inter-Medium', sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    position: relative;
+}
+
+.frame-343 {
+    display: flex;
+    flex-direction: row;
+    gap: 80px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 12px;
+    top: 0px;
+}
+
+.w-indbreaker-hiragana {
+    color: #000000;
+    text-align: left;
+    font-family: 'ABeeZee-Regular', sans-serif;
+    font-size: 24px;
+    line-height: 69px;
+    font-weight: 400;
+    position: relative;
+}
+
+._2 {
+    color: #000000;
+    text-align: left;
+    font-family: 'ABeeZee-Regular', sans-serif;
+    font-size: 24px;
+    line-height: 69px;
+    font-weight: 400;
+    position: relative;
+}
+
+._19-98 {
+    color: #000000;
+    text-align: left;
+    font-family: 'ABeeZee-Regular', sans-serif;
+    font-size: 24px;
+    line-height: 69px;
+    font-weight: 400;
+    position: relative;
+}
+
+.frame-344 {
+    display: flex;
+    flex-direction: row;
+    gap: 80px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 12px;
+    top: 61px;
+}
+
+.sneaker-ky-jdr {
+    color: #000000;
+    text-align: left;
+    font-family: 'ABeeZee-Regular', sans-serif;
+    font-size: 24px;
+    line-height: 69px;
+    font-weight: 400;
+    position: relative;
+    width: 255px;
+}
+
+._1 {
+    color: #000000;
+    text-align: left;
+    font-family: 'ABeeZee-Regular', sans-serif;
+    font-size: 24px;
+    line-height: 69px;
+    font-weight: 400;
+    position: relative;
+}
+
+._9-99 {
+    color: #000000;
+    text-align: left;
+    font-family: 'ABeeZee-Regular', sans-serif;
+    font-size: 24px;
+    line-height: 69px;
+    font-weight: 400;
+    position: relative;
+}
+
+.background {
+    position: absolute;
+    inset: 0;
+}
+
+.back-view-female-tailor-checking-garments-1 {
+    width: 1451px;
+    height: 342px;
+    position: absolute;
+    left: -11px;
+    top: 113px;
+    object-fit: cover;
+}
+
+.rectangle-5069 {
+    background: rgba(69, 98, 106, 0.65);
+    width: 1440px;
+    height: 350px;
+    position: absolute;
+    left: 0px;
+    top: 113px;
+}
+
+.bg-order {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: calc(50% - 418px);
+    top: 26px;
+}
+
+.bold-headings2 {
+    color: rgba(255, 255, 255, 0.30);
+    text-align: left;
+    font-family: 'AbhayaLibreExtraBold-Regular', sans-serif;
+    font-size: 330px;
+    line-height: 539.7px;
+    font-weight: 400;
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+}
+
+.top-menu {
+    background: #ffffff;
+    width: 1335px;
+    height: 113px;
+    position: sticky;
+    left: 0px;
+    top: 0px;
+}
+
+.logo2 {
+    text-align: left;
+    font-family: 'AbrilFatface-Regular', sans-serif;
+    font-size: 62.7400016784668px;
+    line-height: 100px;
+    font-weight: 400;
+    position: absolute;
+    right: 80.75%;
+    left: 0%;
+    width: 19.25%;
+    bottom: 0%;
+    top: 11.5%;
+    height: 88.5%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+}
+
+.logo-2-span {
+    color: #000000;
+    font-family: 'AbrilFatface-Regular', sans-serif;
+    font-size: 62.7400016784668px;
+    line-height: 100px;
+    font-weight: 400;
+}
+
+.logo-2-span2 {
+    color: #ff0000;
+    font-family: 'AbrilFatface-Regular', sans-serif;
+    font-size: 62.7400016784668px;
+    line-height: 100px;
+    font-weight: 400;
+}
+
+.icons {
+    position: absolute;
+    inset: 0;
+}
+
+.frame-303 {
+    display: flex;
+    flex-direction: row;
+    gap: 22px;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    left: calc(50% - -444px);
+    top: calc(50% - 8.5px);
+}
+
+.search {
+    flex-shrink: 0;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    overflow: visible;
+}
+
+.icon-iconoir-heart {
+    flex-shrink: 0;
+    width: 20px;
+    height: 18px;
+    position: relative;
+    overflow: visible;
+}
+
+.basket {
+    flex-shrink: 0;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    overflow: hidden;
+}
+
+.union {
+    width: 19.69px;
+    height: 18.98px;
+    position: absolute;
+    left: 2.16px;
+    top: 2.02px;
+    overflow: visible;
+}
+
+.vector-606-stroke {
+    width: 1.5px;
+    height: 5.5px;
+    position: absolute;
+    left: 7.25px;
+    top: 11.25px;
+    overflow: visible;
+}
+
+.vector-607-stroke {
+    width: 1.5px;
+    height: 5.5px;
+    position: absolute;
+    left: 11.25px;
+    top: 11.25px;
+    overflow: visible;
+}
+
+.vector-608-stroke {
+    width: 1.5px;
+    height: 5.5px;
+    position: absolute;
+    left: 15.25px;
+    top: 11.25px;
+    overflow: visible;
+}
+
+.count {
+    position: absolute;
+    inset: 0;
+}
+
+.ellipse-562 {
+    background: #ff0000;
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    left: 11.5px;
+    top: 0px;
+}
+
+._22 {
+    color: #ffffff;
+    text-align: left;
+    font-family: 'AbhayaLibreExtraBold-Regular', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    position: absolute;
+    left: calc(50% - -2.5px);
+    top: calc(50% - 13px);
+}
+
+.message {
+    flex-shrink: 0;
+    width: 25px;
+    height: 30px;
+    position: relative;
+    overflow: visible;
+}
+
+.person {
+    flex-shrink: 0;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    overflow: visible;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    gap: 42px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 33.18%;
+    height: 27.43%;
+    position: absolute;
+    right: 31.42%;
+    left: 35.39%;
+    bottom: 30.09%;
+    top: 42.48%;
+}
+
+.active-menu {
+    flex-shrink: 0;
+    width: 56px;
+    height: 31px;
+    position: static;
+}
+
+.menu2 {
+    color: var(--393939, #393939);
+    text-align: left;
+    font-family: 'AbhayaLibreExtraBold-Regular', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    position: absolute;
+    left: 7.5px;
+    top: 0px;
+}
+
+.active-indicator {
+    background: #ff5331;
+    width: 56px;
+    height: 2px;
+    position: absolute;
+    left: 0px;
+    top: 29px;
+}
+
+.menu3 {
+    color: var(--393939, #393939);
+    text-align: left;
+    font-family: 'AbhayaLibreExtraBold-Regular', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    position: relative;
+}
+
+.language {
+    position: absolute;
+    inset: 0;
+}
+
+.dropdown {
+    width: 206px;
+    height: 25.6px;
+    position: static;
+}
+
+.text {
+    color: #333333;
+    text-align: left;
+    font-family: 'Poppins-Regular', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    position: absolute;
+    right: 1.95%;
+    left: 84.57%;
+    width: 13.48%;
+    bottom: 77.35%;
+    top: 1.42%;
+    height: 21.24%;
+}
+
+.clip-path-group {
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    left: 1311px;
+    top: 0px;
+    overflow: visible;
+}
+
+.phone {
+    position: absolute;
+    inset: 0;
+}
+
+.frame2 {
+    width: 20px;
+    height: 21.33px;
+    position: absolute;
+    left: 915px;
+    top: calc(50% - 54.5px);
+    overflow: visible;
+}
+
+.text2 {
+    color: #333333;
+    text-align: left;
+    font-family: 'Poppins-Regular', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    position: absolute;
+    left: 945px;
+    top: calc(50% - 56.5px);
+    width: 156px;
+    height: 25.6px;
+}

@@ -1,0 +1,1162 @@
+.inbox-started {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .inbox-started .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 1070px;
+    position: relative;
+  }
+  
+  .inbox-started .overlap {
+    position: absolute;
+    width: 1201px;
+    height: 1070px;
+    top: 0;
+    left: 239px;
+  }
+  
+  .inbox-started .main-bg-color {
+    position: absolute;
+    width: 1201px;
+    height: 1070px;
+    top: 0;
+    left: 0;
+  }
+  
+  .inbox-started .main-bg {
+    position: relative;
+    width: 1203px;
+    height: 1072px;
+    top: -1px;
+    left: -1px;
+    background-color: #f5f6fa;
+  }
+  
+  .inbox-started .showing-of {
+    position: absolute;
+    top: 1028px;
+    left: 336px;
+    opacity: 0.6;
+    font-family: "Nunito Sans", Helvetica;
+    font-weight: 600;
+    color: #202224;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .inbox-started .indicator {
+    position: absolute;
+    width: 86px;
+    height: 30px;
+    top: 1023px;
+    left: 1084px;
+    background-color: #fafbfc;
+    border-radius: 8px;
+    border: 0.6px solid;
+    border-color: #d4d4d4;
+  }
+  
+  .inbox-started .ic-keyboard-arrow {
+    position: absolute;
+    width: 24px;
+    height: 23px;
+    top: 3px;
+    left: 9px;
+  }
+  
+  .inbox-started .img {
+    position: absolute;
+    width: 24px;
+    height: 23px;
+    top: 3px;
+    left: 52px;
+  }
+  
+  .inbox-started .line {
+    position: absolute;
+    width: 1px;
+    height: 30px;
+    top: -1px;
+    left: 43px;
+  }
+  
+  .inbox-started .right-side {
+    position: absolute;
+    width: 834px;
+    height: 840px;
+    top: 167px;
+    left: 337px;
+    background-color: #ffffff;
+    border-radius: 14px;
+    border: 0.3px solid;
+    border-color: #b8b8b8;
+  }
+  
+  .inbox-started .frame {
+    gap: 20px;
+    top: 118px;
+    left: 0;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+  }
+  
+  .inbox-started .message {
+    position: relative;
+    width: 840px;
+    height: 40px;
+    margin-right: -6px;
+  }
+  
+  .inbox-started .divider {
+    position: absolute;
+    width: 835px;
+    height: 1px;
+    top: 39px;
+    left: 0;
+  }
+  
+  .inbox-started .text-wrapper {
+    position: absolute;
+    top: 0;
+    left: 106px;
+    font-family: "Nunito Sans", Helvetica;
+    font-weight: 700;
+    color: #202224;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .inbox-started .p {
+    position: absolute;
+    top: 0;
+    left: 250px;
+    opacity: 0.9;
+    font-family: "Nunito Sans", Helvetica;
+    font-weight: 600;
+    color: #202224;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .inbox-started .text-wrapper-2 {
+    position: absolute;
+    top: 0;
+    left: 759px;
+    opacity: 0.7;
+    font-family: "Nunito Sans", Helvetica;
+    font-weight: 600;
+    color: #202224;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .inbox-started .yellow-star {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    top: 1px;
+    left: 59px;
+  }
+  
+  .inbox-started .check-box {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 2px;
+    left: 20px;
+  }
+  
+  .inbox-started .check-box-2 {
+    position: relative;
+    width: 17px;
+    height: 17px;
+    top: -1px;
+    left: -1px;
+    border-radius: 3px;
+    border: 1.2px solid;
+    border-color: #b3b3b3;
+  }
+  
+  .inbox-started .other-action {
+    position: absolute;
+    width: 131px;
+    height: 40px;
+    top: 24px;
+    left: 679px;
+    background-color: #fafbfc;
+    border-radius: 12px;
+    border: 0.6px solid;
+    border-color: #d4d4d4;
+  }
+  
+  .inbox-started .line-2 {
+    left: 44px;
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    top: -1px;
+  }
+  
+  .inbox-started .line-3 {
+    left: 89px;
+    position: absolute;
+    width: 1px;
+    height: 40px;
+    top: -1px;
+  }
+  
+  .inbox-started .shape {
+    position: absolute;
+    width: 12px;
+    height: 16px;
+    top: 11px;
+    left: 103px;
+  }
+  
+  .inbox-started .shape-2 {
+    left: 13px;
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 11px;
+  }
+  
+  .inbox-started .shape-3 {
+    left: 58px;
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 11px;
+  }
+  
+  .inbox-started .search-bar {
+    position: absolute;
+    width: 334px;
+    height: 40px;
+    top: 24px;
+    left: 24px;
+  }
+  
+  .inbox-started .overlap-group {
+    position: relative;
+    width: 332px;
+    height: 40px;
+    background-color: #f5f6fa;
+    border-radius: 20px;
+    border: 0.6px solid;
+    border-color: #d4d4d4;
+  }
+  
+  .inbox-started .search {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 12px;
+    left: 16px;
+  }
+  
+  .inbox-started .text-wrapper-3 {
+    position: absolute;
+    top: 9px;
+    left: 44px;
+    opacity: 0.6;
+    font-family: "Nunito Sans", Helvetica;
+    font-weight: 400;
+    color: #202224;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .inbox-started .left-side {
+    position: absolute;
+    width: 286px;
+    height: 840px;
+    top: 167px;
+    left: 30px;
+    background-color: #ffffff;
+    border-radius: 14px;
+    border: 0.3px solid;
+    border-color: #b8b8b8;
+  }
+  
+  .inbox-started .create-new {
+    position: absolute;
+    width: 143px;
+    height: 27px;
+    top: 687px;
+    left: 41px;
+  }
+  
+  .inbox-started .text-wrapper-4 {
+    position: absolute;
+    top: 4px;
+    left: 26px;
+    opacity: 0.5;
+    font-family: "Nunito Sans", Helvetica;
+    font-weight: 600;
+    color: #202224;
+    font-size: 14px;
+    letter-spacing: -0.05px;
+    line-height: normal;
+  }
+  
+  .inbox-started .text-wrapper-5 {
+    top: 0;
+    left: 0;
+    opacity: 0.5;
+    font-family: "Nunito Sans", Helvetica;
+    font-weight: 600;
+    color: #202224;
+    font-size: 20px;
+    letter-spacing: -0.07px;
+    position: absolute;
+    line-height: normal;
+  }
+  
+  .inbox-started .label {
+    position: absolute;
+    width: 96px;
+    height: 198px;
+    top: 462px;
+    left: 25px;
+  }
+  
+  .inbox-started .friend {
+    position: absolute;
+    width: 77px;
+    height: 19px;
+    top: 179px;
+    left: 16px;
+  }
+  
+  .inbox-started .mask-circle {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: 2px;
+    left: 0;
+  }
+  
+  .inbox-started .rectangle {
+    position: relative;
+    width: 16px;
+    height: 16px;
+    top: -1px;
+    left: -1px;
+    border-radius: 1px;
+    border: 1.2px solid;
+    border-color: #d456fd;
+  }
+  
+  .inbox-started .text-wrapper-6 {
+    position: absolute;
+    top: 0;
+    left: 28px;
+    font-family: "Nunito Sans", Helvetica;
+    font-weight: 600;
+    color: #202224;
+    font-size: 14px;
+    letter-spacing: -0.05px;
+    line-height: normal;
+  }
+  
+  .inbox-started .work {
+    position: absolute;
+    width: 65px;
+    height: 19px;
+    top: 136px;
+    left: 16px;
+  }
+  
+  .inbox-started .rectangle-2 {
+    position: relative;
+    width: 16px;
+    height: 16px;
+    top: -1px;
+    left: -1px;
+    border-radius: 1px;
+    border: 1.2px solid;
+    border-color: #fd9a56;
+  }
+  
+  .inbox-started .social {
+    position: absolute;
+    width: 68px;
+    height: 19px;
+    top: 93px;
+    left: 16px;
+  }
+  
+  .inbox-started .rectangle-3 {
+    position: relative;
+    width: 16px;
+    height: 16px;
+    top: -1px;
+    left: -1px;
+    border-radius: 1px;
+    border: 1.2px solid;
+    border-color: #5a8cff;
+  }
+  
+  .inbox-started .primary {
+    position: absolute;
+    width: 80px;
+    height: 19px;
+    top: 50px;
+    left: 16px;
+  }
+  
+  .inbox-started .rectangle-4 {
+    position: relative;
+    width: 16px;
+    height: 16px;
+    top: -1px;
+    left: -1px;
+    border-radius: 1px;
+    border: 1.2px solid;
+    border-color: #00b69b;
+  }
+  
+  .inbox-started .text-wrapper-7 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Nunito Sans", Helvetica;
+    font-weight: 700;
+    color: #202224;
+    font-size: 16px;
+    letter-spacing: -0.06px;
+    line-height: normal;
+  }
+  
+  .inbox-started .my-email {
+    position: absolute;
+    width: 240px;
+    height: 328px;
+    top: 91px;
+    left: 25px;
+  }
+  
+  .inbox-started .all {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 28px;
+    position: absolute;
+    top: 50px;
+    left: 0;
+  }
+  
+  .inbox-started .inbox {
+    position: relative;
+    width: 208.64px;
+    height: 19px;
+  }
+  
+  .inbox-started .email-action-unread {
+    position: absolute;
+    width: 15px;
+    height: 11px;
+    top: 5px;
+    left: 0;
+  }
+  
+  .inbox-started .path-wrapper {
+    position: relative;
+    width: 16px;
+    height: 12px;
+    top: -1px;
+    left: -1px;
+    border-radius: 1.5px;
+    border: 1.2px solid;
+    border-color: #202224;
+  }
+  
+  .inbox-started .path {
+    position: absolute;
+    width: 16px;
+    height: 6px;
+    top: -1px;
+    left: -1px;
+  }
+  
+  .inbox-started .text-wrapper-8 {
+    position: absolute;
+    top: 0;
+    left: 171px;
+    opacity: 0.6;
+    font-family: "Nunito Sans", Helvetica;
+    font-weight: 600;
+    color: #202224;
+    font-size: 14px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .inbox-started .starred {
+    position: relative;
+    width: 242px;
+    height: 43px;
+    margin-right: -4px;
+  }
+  
+  .inbox-started .overlap-2 {
+    position: relative;
+    width: 240px;
+    height: 45px;
+    top: -1px;
+    left: -1px;
+    border-radius: 4px;
+  }
+  
+  .inbox-started .bg {
+    position: absolute;
+    width: 240px;
+    height: 45px;
+    top: 0;
+    left: 0;
+    background-color: #4880ff;
+    border-radius: 4px;
+    opacity: 0.13;
+  }
+  
+  .inbox-started .rating-star {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 15px;
+    left: 17px;
+  }
+  
+  .inbox-started .text-wrapper-9 {
+    position: absolute;
+    top: 13px;
+    left: 45px;
+    font-family: "Nunito Sans", Helvetica;
+    font-weight: 700;
+    color: #4880ff;
+    font-size: 14px;
+    letter-spacing: -0.05px;
+    line-height: normal;
+  }
+  
+  .inbox-started .text-wrapper-10 {
+    top: 13px;
+    left: 197px;
+    opacity: 0.6;
+    font-weight: 700;
+    color: #4880ff;
+    font-size: 14px;
+    text-align: right;
+    position: absolute;
+    font-family: "Nunito Sans", Helvetica;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .inbox-started .sent {
+    position: relative;
+    width: 209.36px;
+    height: 19px;
+  }
+  
+  .inbox-started .img-2 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 2px;
+    left: -1px;
+  }
+  
+  .inbox-started .text-wrapper-11 {
+    position: absolute;
+    top: 0;
+    left: 27px;
+    font-family: "Nunito Sans", Helvetica;
+    font-weight: 600;
+    color: #202224;
+    font-size: 14px;
+    letter-spacing: -0.05px;
+    line-height: normal;
+  }
+  
+  .inbox-started .text-wrapper-12 {
+    top: 0;
+    left: 159px;
+    opacity: 0.6;
+    font-family: "Nunito Sans", Helvetica;
+    font-weight: 600;
+    color: #202224;
+    font-size: 14px;
+    text-align: right;
+    letter-spacing: 0;
+    position: absolute;
+    line-height: normal;
+  }
+  
+  .inbox-started .spam {
+    position: relative;
+    width: 210px;
+    height: 19px;
+  }
+  
+  .inbox-started .icon {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 1px;
+    left: -1px;
+  }
+  
+  .inbox-started .text-wrapper-13 {
+    top: 0;
+    left: 189px;
+    opacity: 0.6;
+    font-weight: 600;
+    color: #202224;
+    font-size: 14px;
+    text-align: right;
+    position: absolute;
+    font-family: "Nunito Sans", Helvetica;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .inbox-started .important {
+    position: relative;
+    width: 209.5px;
+    height: 19px;
+  }
+  
+  .inbox-started .text-wrapper-14 {
+    top: 0;
+    left: 188px;
+    opacity: 0.6;
+    font-weight: 600;
+    color: #202224;
+    font-size: 14px;
+    text-align: right;
+    position: absolute;
+    font-family: "Nunito Sans", Helvetica;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .inbox-started .bin {
+    position: relative;
+    width: 209.8px;
+    height: 19px;
+  }
+  
+  .inbox-started .bin-2 {
+    position: absolute;
+    width: 17px;
+    height: 16px;
+    top: 1px;
+    left: -1px;
+  }
+  
+  .inbox-started .text-wrapper-15 {
+    top: 0;
+    left: 197px;
+    opacity: 0.6;
+    font-weight: 600;
+    color: #202224;
+    font-size: 14px;
+    text-align: right;
+    position: absolute;
+    font-family: "Nunito Sans", Helvetica;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .inbox-started .button-compose {
+    position: absolute;
+    width: 238px;
+    height: 43px;
+    top: 24px;
+    left: 25px;
+  }
+  
+  .inbox-started .overlap-group-wrapper {
+    width: 240px;
+    height: 43px;
+  }
+  
+  .inbox-started .overlap-group-2 {
+    position: relative;
+    height: 45px;
+    top: -1px;
+    left: -1px;
+    border-radius: 8px;
+  }
+  
+  .inbox-started .rectangle-5 {
+    position: absolute;
+    width: 240px;
+    height: 45px;
+    top: 0;
+    left: 0;
+    background-color: #4880ff;
+    border-radius: 8px;
+    opacity: 0.9;
+  }
+  
+  .inbox-started .text-wrapper-16 {
+    position: absolute;
+    top: 13px;
+    left: 84px;
+    font-family: "Nunito Sans", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: -0.05px;
+    line-height: normal;
+  }
+  
+  .inbox-started .text-wrapper-17 {
+    top: 99px;
+    left: 31px;
+    font-weight: 700;
+    font-size: 32px;
+    letter-spacing: -0.11px;
+    position: absolute;
+    font-family: "Nunito Sans", Helvetica;
+    color: #202224;
+    line-height: normal;
+  }
+  
+  .inbox-started .navigation-sidebar {
+    position: fixed;
+    width: 244px;
+    height: 1070px;
+    top: 0;
+    left: 0;
+  }
+  
+  .inbox-started .overlap-3 {
+    position: relative;
+    width: 242px;
+    height: 1072px;
+    top: -1px;
+    left: -1px;
+    background-color: #ffffff;
+  }
+  
+  .inbox-started .divider-2 {
+    top: 863px;
+    position: absolute;
+    width: 240px;
+    height: 1px;
+    left: 1px;
+  }
+  
+  .inbox-started .frame-2 {
+    top: 447px;
+    left: 1px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+  }
+  
+  .inbox-started .products-wrapper {
+    position: relative;
+    width: 240px;
+    height: 50px;
+  }
+  
+  .inbox-started .products {
+    position: relative;
+    width: 244px;
+    height: 50px;
+  }
+  
+  .inbox-started .text-wrapper-18 {
+    position: absolute;
+    top: 16px;
+    left: 78px;
+    font-family: "Nunito Sans", Helvetica;
+    font-weight: 600;
+    color: #202224;
+    font-size: 14px;
+    letter-spacing: 0.3px;
+    line-height: normal;
+  }
+  
+  .inbox-started .text-wrapper-19 {
+    position: absolute;
+    top: 13px;
+    left: 40px;
+    font-family: "LineAwesome-Medium", Helvetica;
+    font-weight: 500;
+    color: #202224;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .inbox-started .text-wrapper-20 {
+    position: absolute;
+    top: 415px;
+    left: 41px;
+    opacity: 0.6;
+    font-family: "Nunito Sans", Helvetica;
+    font-weight: 700;
+    color: #202224;
+    font-size: 12px;
+    letter-spacing: 0.26px;
+    line-height: normal;
+  }
+  
+  .inbox-started .divider-3 {
+    top: 398px;
+    position: absolute;
+    width: 240px;
+    height: 1px;
+    left: 1px;
+  }
+  
+  .inbox-started .frame-3 {
+    top: 82px;
+    left: 1px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+  }
+  
+  .inbox-started .div-wrapper {
+    width: 244px;
+    height: 50px;
+  }
+  
+  .inbox-started .overlap-group-3 {
+    position: relative;
+    width: 240px;
+    height: 50px;
+    background-image: url(https://c.animaapp.com/7mIEwmrg/img/hide-bg---hide-bg-copy-mask-1@2x.png);
+    background-size: 100% 100%;
+  }
+  
+  .inbox-started .products-2 {
+    position: absolute;
+    top: 16px;
+    left: 78px;
+    font-family: "Nunito Sans", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0.3px;
+    line-height: normal;
+  }
+  
+  .inbox-started .text-wrapper-21 {
+    top: 13px;
+    left: 40px;
+    font-family: "LineAwesome-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    white-space: nowrap;
+    position: absolute;
+    line-height: normal;
+  }
+  
+  .inbox-started .bright-web {
+    position: absolute;
+    width: 162px;
+    top: 12px;
+    left: 52px;
+    font-family: "Nunito Sans", Helvetica;
+    font-weight: 800;
+    color: transparent;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .inbox-started .span {
+    color: #000000;
+  }
+  
+  .inbox-started .text-wrapper-22 {
+    color: #ff0000;
+  }
+  
+  .inbox-started .navigation-top-bar {
+    position: fixed;
+    width: 1201px;
+    height: 71px;
+    top: 0;
+    left: 240px;
+  }
+  
+  .inbox-started .overlap-wrapper {
+    height: 71px;
+  }
+  
+  .inbox-started .overlap-4 {
+    position: relative;
+    width: 1203px;
+    height: 73px;
+    top: -1px;
+    left: -1px;
+    background-color: #ffffff;
+  }
+  
+  .inbox-started .profile {
+    position: absolute;
+    width: 173px;
+    height: 44px;
+    top: 14px;
+    left: 1002px;
+  }
+  
+  .inbox-started .more {
+    position: absolute;
+    width: 18px;
+    height: 19px;
+    top: 13px;
+    left: 151px;
+  }
+  
+  .inbox-started .jone-aly {
+    position: absolute;
+    top: 3px;
+    left: 64px;
+    font-family: "Nunito Sans", Helvetica;
+    font-weight: 700;
+    color: #404040;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .inbox-started .text-wrapper-23 {
+    position: absolute;
+    top: 25px;
+    left: 64px;
+    font-family: "Nunito Sans", Helvetica;
+    font-weight: 600;
+    color: #565656;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .inbox-started .man {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 0;
+    left: 0;
+  }
+  
+  .inbox-started .english {
+    position: absolute;
+    width: 125px;
+    height: 27px;
+    top: 23px;
+    left: 852px;
+  }
+  
+  .inbox-started .text-wrapper-24 {
+    position: absolute;
+    top: 5px;
+    left: 56px;
+    font-family: "Nunito Sans", Helvetica;
+    font-weight: 600;
+    color: #646464;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .inbox-started .drop-down {
+    position: absolute;
+    width: 8px;
+    height: 5px;
+    top: 10px;
+    left: 115px;
+  }
+  
+  .inbox-started .flag {
+    position: absolute;
+    width: 40px;
+    height: 27px;
+    top: 0;
+    left: 0;
+  }
+  
+  .inbox-started .overlap-5 {
+    position: absolute;
+    width: 31px;
+    height: 32px;
+    top: 19px;
+    left: 797px;
+  }
+  
+  .inbox-started .icon-2 {
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    top: 1px;
+    left: 0;
+  }
+  
+  .inbox-started .overlap-group-4 {
+    position: relative;
+    width: 29px;
+    height: 31px;
+  }
+  
+  .inbox-started .icon-3 {
+    position: absolute;
+    width: 24px;
+    height: 26px;
+    top: 5px;
+    left: 0;
+  }
+  
+  .inbox-started .combined-shape {
+    position: absolute;
+    width: 24px;
+    height: 18px;
+    top: 0;
+    left: 0;
+  }
+  
+  .inbox-started .rectangle-6 {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    top: 20px;
+    left: 9px;
+    background-color: #ff0000;
+    border-radius: 2.25px;
+    opacity: 0.3;
+  }
+  
+  .inbox-started .oval {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 0;
+    left: 13px;
+  }
+  
+  .inbox-started .text-wrapper-25 {
+    top: 0;
+    left: 17px;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 12px;
+    position: absolute;
+    font-family: "Nunito Sans", Helvetica;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .inbox-started .oval-2 {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    top: 0;
+    left: 12px;
+  }
+  
+  .inbox-started .icon-4 {
+    position: absolute;
+    width: 26px;
+    height: 25px;
+    top: 24px;
+    left: 31px;
+    opacity: 0.9;
+  }
+  
+  .inbox-started .path-2 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: -149px;
+    left: -2598px;
+  }
+  
+  .inbox-started .text-wrapper-26 {
+    top: 0;
+    left: 1px;
+    font-family: "LineAwesome-Medium", Helvetica;
+    font-weight: 500;
+    color: #202224;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0;
+    white-space: nowrap;
+    position: absolute;
+    line-height: normal;
+  }
+  
+  .inbox-started .search-2 {
+    position: absolute;
+    width: 390px;
+    height: 38px;
+    top: 17px;
+    left: 79px;
+  }
+  
+  .inbox-started .overlap-6 {
+    position: relative;
+    width: 388px;
+    height: 38px;
+    background-color: #f5f6fa;
+    border-radius: 19px;
+    border: 0.6px solid;
+    border-color: #d4d4d4;
+  }
+  
+  .inbox-started .input {
+    position: absolute;
+    top: 9px;
+    left: 44px;
+    opacity: 0.5;
+    font-family: "Nunito Sans", Helvetica;
+    font-weight: 400;
+    color: #202224;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    background: transparent;
+    border: none;
+    padding: 0;
+  }
+  
+  .inbox-started .search-3 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 10px;
+    left: 16px;
+  }
+  
